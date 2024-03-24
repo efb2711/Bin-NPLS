@@ -1,0 +1,12 @@
+Package: BinNPLS
+Type: Package
+Title: Binary N-way Partial Least Squares
+Depends: R (>= 3.5.0), MultBiplotR
+Version: 0.1.0
+Author: Elisa Frutos Bernal
+Maintainer: Elisa Frutos Bernal <efb@usal.es>
+Description: It performs the N-way partial least squares for binary response being X a three-way real-valued data array serves as the explanatory role and Y a matrix of binary response data
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
